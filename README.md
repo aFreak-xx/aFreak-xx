@@ -4,8 +4,7 @@
 
 - 🔭 I'm recently watching ...
 - 🤔 I'm currently working on ...
-- TBD
-
+- 😍 I'm recently reading ///
 
 
 
