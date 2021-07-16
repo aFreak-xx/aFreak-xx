@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+###### This is Kanna97,a new programer learning English/Japanese and computer language like Python and CPP.
+
+- 🔭 I'm recently watching ...
+- 🤔 I'm currently working on ...
+- TBD
+
+
+
+
 <!--
 **kanna97/kanna97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
