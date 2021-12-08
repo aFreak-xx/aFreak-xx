@@ -1,11 +1,6 @@
-### Hi there 👋
+### Hi
 
-###### This is Kanna97,a new programer learning English/Japanese and computer language like Python and CPP.
-
-- 🔭 I'm recently watching ...
-- 🤔 I'm currently working on ...
-- 😍 I'm recently reading ///
-
+###### 啊。希望短暂的人生可以有那么一点意义。。
 
 
 <!--
